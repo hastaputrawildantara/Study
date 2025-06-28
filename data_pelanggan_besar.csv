@@ -1,0 +1,201 @@
+ID,Nama,Umur,Jenis_Kelamin,Pendapatan,Status_Menikah,Kota
+1,Made,29.0,Pria,5000000.0,Menikah,Surabaya
+2,Putri,19.0,Wanita,9000000.0,Belum Menikah,
+3,Kiki,52.0,Pria,11500000.0,Belum Menikah,Makassar
+4,Galih,37.0,Wanita,3000000.0,Menikah,
+5,Oscar,58.0,Wanita,12000000.0,Belum Menikah,Yogyakarta
+6,Made,57.0,Pria,,Belum Menikah,
+7,Citra,58.0,Wanita,9000000.0,Menikah,Makassar
+8,Farah,36.0,Wanita,11000000.0,Menikah,Denpasar
+9,Oscar,22.0,Wanita,12000000.0,Belum Menikah,Bandung
+10,Dinda,48.0,Pria,8000000.0,Menikah,Bandung
+11,Made,18.0,Wanita,11500000.0,Menikah,Medan
+12,Lina,49.0,Wanita,3500000.0,Menikah,
+13,Lina,46.0,Pria,11000000.0,Belum Menikah,Bandung
+14,Dinda,,Wanita,4500000.0,Belum Menikah,Medan
+15,Nina,58.0,Wanita,3500000.0,Belum Menikah,Surabaya
+16,Kiki,58.0,Pria,2500000.0,Menikah,Denpasar
+17,Putri,31.0,Pria,4500000.0,Belum Menikah,Makassar
+18,Lina,19.0,Wanita,14000000.0,Belum Menikah,Bandung
+19,Kiki,20.0,Pria,11000000.0,Belum Menikah,Surabaya
+20,Budi,42.0,Pria,9000000.0,Menikah,Denpasar
+21,Budi,24.0,Wanita,6000000.0,Belum Menikah,Surabaya
+22,Eko,22.0,Wanita,5000000.0,Menikah,Jakarta
+23,Putri,55.0,Pria,6000000.0,Menikah,Medan
+24,Kiki,54.0,Wanita,10500000.0,Belum Menikah,Surabaya
+25,Galih,37.0,Pria,,Belum Menikah,Yogyakarta
+26,Made,47.0,Pria,14000000.0,Belum Menikah,Medan
+27,Oscar,18.0,Wanita,3000000.0,Menikah,Makassar
+28,Galih,35.0,Wanita,3500000.0,Belum Menikah,
+29,Andi,36.0,Pria,7500000.0,Menikah,Bandung
+30,Farah,51.0,Pria,14000000.0,Menikah,Surabaya
+31,Joko,37.0,Pria,8500000.0,Menikah,Makassar
+32,Citra,50.0,Pria,13500000.0,Belum Menikah,Denpasar
+33,Lina,31.0,Pria,6000000.0,Menikah,Denpasar
+34,Citra,44.0,Wanita,7500000.0,Menikah,Surabaya
+35,Galih,19.0,Pria,7000000.0,Belum Menikah,Medan
+36,Made,37.0,Wanita,13000000.0,Menikah,Medan
+37,Kiki,45.0,Wanita,14000000.0,Belum Menikah,Yogyakarta
+38,Nina,19.0,Pria,7500000.0,Belum Menikah,Surabaya
+39,Kiki,52.0,Wanita,10000000.0,Belum Menikah,Yogyakarta
+40,Joko,54.0,Pria,14500000.0,Menikah,Surabaya
+41,Citra,28.0,Pria,,Menikah,
+42,Citra,27.0,Pria,6000000.0,Menikah,Surabaya
+43,Citra,31.0,Pria,6000000.0,Belum Menikah,Surabaya
+44,Andi,41.0,Wanita,4500000.0,Menikah,Surabaya
+45,Dinda,36.0,Wanita,,Belum Menikah,
+46,Lina,37.0,Pria,13000000.0,Menikah,Surabaya
+47,Farah,51.0,Pria,5500000.0,Menikah,Medan
+48,Lina,19.0,Pria,8000000.0,Belum Menikah,Yogyakarta
+49,Hana,43.0,Wanita,10500000.0,Belum Menikah,Jakarta
+50,Kiki,50.0,Wanita,12500000.0,Menikah,Jakarta
+51,Indra,56.0,Pria,12500000.0,Menikah,Denpasar
+52,Oscar,20.0,Pria,13000000.0,Belum Menikah,Jakarta
+53,Lina,46.0,Wanita,4500000.0,Menikah,Makassar
+54,Dinda,38.0,Wanita,8500000.0,Belum Menikah,Surabaya
+55,Nina,32.0,Pria,14500000.0,Menikah,Yogyakarta
+56,Citra,39.0,Wanita,3500000.0,Belum Menikah,Makassar
+57,Dinda,,Pria,10500000.0,Belum Menikah,Medan
+58,Galih,21.0,Wanita,,Menikah,
+59,Budi,30.0,Wanita,14000000.0,Menikah,Surabaya
+60,Made,30.0,Wanita,12000000.0,Belum Menikah,
+61,Citra,37.0,Pria,5000000.0,Belum Menikah,Denpasar
+62,Budi,44.0,Pria,7500000.0,Menikah,Makassar
+63,Putri,25.0,Pria,10000000.0,Belum Menikah,Medan
+64,Joko,40.0,Wanita,9000000.0,Belum Menikah,Makassar
+65,Galih,52.0,Pria,13000000.0,Menikah,Yogyakarta
+66,Dinda,46.0,Wanita,8500000.0,Belum Menikah,Medan
+67,Andi,57.0,Pria,12000000.0,Belum Menikah,
+68,Made,34.0,Wanita,9000000.0,Belum Menikah,Bandung
+69,Indra,59.0,Pria,11500000.0,Belum Menikah,Bandung
+70,Andi,24.0,Wanita,11500000.0,Menikah,Jakarta
+71,Kiki,47.0,Wanita,2500000.0,Menikah,Medan
+72,Indra,24.0,Wanita,8000000.0,Menikah,Yogyakarta
+73,Kiki,57.0,Wanita,11000000.0,Belum Menikah,Surabaya
+74,Galih,51.0,Wanita,13500000.0,Belum Menikah,Surabaya
+75,Dinda,,Pria,12500000.0,Belum Menikah,Jakarta
+76,Budi,30.0,Pria,6000000.0,Belum Menikah,
+77,Budi,35.0,Wanita,8000000.0,Belum Menikah,Jakarta
+78,Lina,33.0,Wanita,11000000.0,Belum Menikah,Surabaya
+79,Putri,57.0,Wanita,,Belum Menikah,Medan
+80,Hana,40.0,Pria,4000000.0,Menikah,Bandung
+81,Galih,,Wanita,14000000.0,Menikah,Makassar
+82,Andi,58.0,Pria,14000000.0,Menikah,Denpasar
+83,Kiki,54.0,Pria,9500000.0,Menikah,Medan
+84,Putri,35.0,Wanita,11000000.0,Menikah,Medan
+85,Hana,36.0,Wanita,8500000.0,Menikah,Makassar
+86,Lina,,Pria,11000000.0,Belum Menikah,Makassar
+87,Citra,,Pria,10500000.0,Belum Menikah,Yogyakarta
+88,Made,33.0,Wanita,6000000.0,Belum Menikah,Makassar
+89,Hana,44.0,Pria,8500000.0,Belum Menikah,Surabaya
+90,Putri,45.0,Wanita,4500000.0,Belum Menikah,
+91,Dinda,20.0,Wanita,4500000.0,Belum Menikah,Makassar
+92,Citra,20.0,Wanita,,Belum Menikah,
+93,Lina,18.0,Wanita,12000000.0,Belum Menikah,
+94,Citra,40.0,Pria,12500000.0,Belum Menikah,Denpasar
+95,Citra,34.0,Pria,14500000.0,Belum Menikah,Medan
+96,Nina,36.0,Wanita,12000000.0,Menikah,Denpasar
+97,Lina,43.0,Wanita,,Menikah,Denpasar
+98,Indra,29.0,Wanita,3000000.0,Belum Menikah,Makassar
+99,Eko,33.0,Wanita,5500000.0,Belum Menikah,Makassar
+100,Oscar,24.0,Wanita,14000000.0,Menikah,
+101,Kiki,29.0,Pria,6500000.0,Menikah,Makassar
+102,Joko,28.0,Pria,4500000.0,Menikah,Surabaya
+103,Kiki,58.0,Pria,4000000.0,Menikah,Jakarta
+104,Made,42.0,Wanita,2500000.0,Menikah,Surabaya
+105,Kiki,55.0,Pria,12500000.0,Menikah,Jakarta
+106,Hana,,Wanita,13500000.0,Belum Menikah,
+107,Made,18.0,Pria,4000000.0,Belum Menikah,Denpasar
+108,Galih,34.0,Pria,14500000.0,Menikah,
+109,Indra,41.0,Pria,5000000.0,Belum Menikah,Bandung
+110,Made,31.0,Wanita,8500000.0,Belum Menikah,Yogyakarta
+111,Nina,30.0,Pria,9000000.0,Belum Menikah,Denpasar
+112,Citra,32.0,Pria,7000000.0,Belum Menikah,Yogyakarta
+113,Kiki,19.0,Wanita,7000000.0,Menikah,Denpasar
+114,Eko,22.0,Pria,5000000.0,Menikah,Surabaya
+115,Andi,57.0,Pria,11500000.0,Menikah,Yogyakarta
+116,Indra,26.0,Pria,8500000.0,Belum Menikah,Yogyakarta
+117,Nina,58.0,Wanita,10000000.0,Belum Menikah,Medan
+118,Oscar,56.0,Pria,11000000.0,Belum Menikah,Bandung
+119,Eko,18.0,Pria,,Menikah,Surabaya
+120,Budi,37.0,Pria,3500000.0,Belum Menikah,Makassar
+121,Galih,44.0,Wanita,7000000.0,Belum Menikah,
+122,Galih,26.0,Wanita,4500000.0,Menikah,Jakarta
+123,Citra,27.0,Pria,14500000.0,Belum Menikah,Medan
+124,Putri,34.0,Wanita,13500000.0,Menikah,Makassar
+125,Putri,32.0,Wanita,9000000.0,Belum Menikah,Medan
+126,Andi,47.0,Pria,14500000.0,Menikah,Makassar
+127,Farah,28.0,Wanita,13500000.0,Menikah,
+128,Joko,42.0,Pria,13500000.0,Menikah,Bandung
+129,Dinda,55.0,Wanita,13500000.0,Menikah,Jakarta
+130,Lina,22.0,Wanita,,Belum Menikah,Surabaya
+131,Putri,51.0,Wanita,12500000.0,Belum Menikah,Denpasar
+132,Hana,44.0,Wanita,8000000.0,Menikah,Yogyakarta
+133,Kiki,55.0,Wanita,10000000.0,Belum Menikah,Yogyakarta
+134,Putri,43.0,Wanita,9000000.0,Belum Menikah,Bandung
+135,Indra,44.0,Pria,8500000.0,Menikah,
+136,Andi,27.0,Pria,12000000.0,Belum Menikah,
+137,Citra,30.0,Pria,14500000.0,Menikah,Makassar
+138,Dinda,27.0,Wanita,,Belum Menikah,Medan
+139,Oscar,25.0,Wanita,,Belum Menikah,Bandung
+140,Kiki,42.0,Wanita,5500000.0,Menikah,Makassar
+141,Eko,53.0,Wanita,5500000.0,Belum Menikah,Makassar
+142,Oscar,34.0,Wanita,14500000.0,Belum Menikah,Bandung
+143,Nina,48.0,Pria,13500000.0,Belum Menikah,Makassar
+144,Lina,35.0,Pria,11500000.0,Menikah,Jakarta
+145,Eko,49.0,Wanita,6000000.0,Menikah,Makassar
+146,Made,48.0,Wanita,9000000.0,Menikah,Surabaya
+147,Lina,35.0,Wanita,9500000.0,Belum Menikah,Yogyakarta
+148,Andi,31.0,Pria,10500000.0,Menikah,Surabaya
+149,Andi,36.0,Wanita,8500000.0,Belum Menikah,Makassar
+150,Dinda,42.0,Wanita,7500000.0,Menikah,
+151,Made,26.0,Wanita,2500000.0,Menikah,Bandung
+152,Putri,49.0,Wanita,3500000.0,Belum Menikah,Bandung
+153,Farah,37.0,Pria,10000000.0,Menikah,
+154,Dinda,47.0,Pria,2500000.0,Belum Menikah,Denpasar
+155,Galih,48.0,Pria,5500000.0,Belum Menikah,Makassar
+156,Citra,47.0,Pria,2500000.0,Menikah,Jakarta
+157,Eko,34.0,Pria,6500000.0,Belum Menikah,Jakarta
+158,Indra,46.0,Wanita,4500000.0,Menikah,Medan
+159,Hana,58.0,Wanita,10000000.0,Menikah,Makassar
+160,Putri,24.0,Pria,7500000.0,Menikah,
+161,Citra,23.0,Wanita,3500000.0,Belum Menikah,Jakarta
+162,Dinda,42.0,Wanita,9000000.0,Belum Menikah,Makassar
+163,Indra,37.0,Pria,5000000.0,Menikah,Denpasar
+164,Citra,24.0,Pria,,Belum Menikah,Medan
+165,Joko,48.0,Wanita,14500000.0,Belum Menikah,
+166,Farah,50.0,Pria,9500000.0,Belum Menikah,Medan
+167,Oscar,20.0,Pria,12500000.0,Belum Menikah,Surabaya
+168,Citra,48.0,Pria,11000000.0,Menikah,Surabaya
+169,Citra,53.0,Wanita,6500000.0,Menikah,Medan
+170,Oscar,,Wanita,4000000.0,Belum Menikah,Denpasar
+171,Joko,59.0,Pria,8000000.0,Belum Menikah,Bandung
+172,Hana,38.0,Pria,3500000.0,Menikah,Jakarta
+173,Putri,30.0,Wanita,14000000.0,Menikah,Denpasar
+174,Eko,37.0,Wanita,10500000.0,Belum Menikah,Denpasar
+175,Budi,18.0,Wanita,14000000.0,Menikah,Medan
+176,Hana,52.0,Wanita,9000000.0,Menikah,Jakarta
+177,Eko,25.0,Pria,7500000.0,Belum Menikah,
+178,Andi,21.0,Wanita,10500000.0,Menikah,Denpasar
+179,Hana,,Wanita,12500000.0,Belum Menikah,
+180,Oscar,38.0,Wanita,4000000.0,Menikah,
+181,Putri,,Pria,,Belum Menikah,
+182,Hana,41.0,Wanita,3000000.0,Menikah,Medan
+183,Hana,44.0,Wanita,11500000.0,Menikah,Makassar
+184,Dinda,46.0,Wanita,5500000.0,Belum Menikah,Denpasar
+185,Kiki,30.0,Wanita,10500000.0,Belum Menikah,Makassar
+186,Dinda,40.0,Wanita,8000000.0,Menikah,Jakarta
+187,Citra,58.0,Wanita,13000000.0,Menikah,Bandung
+188,Made,39.0,Wanita,14000000.0,Menikah,Bandung
+189,Eko,28.0,Pria,5000000.0,Belum Menikah,Jakarta
+190,Oscar,54.0,Pria,10500000.0,Belum Menikah,Yogyakarta
+191,Citra,39.0,Wanita,6000000.0,Menikah,Bandung
+192,Oscar,29.0,Wanita,13500000.0,Menikah,Jakarta
+193,Putri,31.0,Pria,3500000.0,Menikah,Yogyakarta
+194,Eko,39.0,Pria,14500000.0,Belum Menikah,Makassar
+195,Joko,59.0,Wanita,4000000.0,Menikah,
+196,Budi,54.0,Pria,,Belum Menikah,Medan
+197,Farah,34.0,Wanita,14500000.0,Belum Menikah,Makassar
+198,Putri,29.0,Pria,7500000.0,Belum Menikah,
+199,Oscar,54.0,Pria,9000000.0,Belum Menikah,Medan
+200,Indra,,Pria,13500000.0,Menikah,Medan
