@@ -5,7 +5,7 @@ import seaborn as sns
 from sklearn.preprocessing import MinMaxScaler
 
 # Membaca dataset           
-df = pd.read_csv('train (1).csv')           
+df = pd.read_csv('House Price Prediction Dataset.csv')           
 
 # Menampilkan fitur fitur dari dataset
 print("===Daftar Fitur=== \n", df.columns.tolist(), "\n")
